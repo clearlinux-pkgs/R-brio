@@ -4,7 +4,7 @@
 #
 Name     : R-brio
 Version  : 1.1.2
-Release  : 17
+Release  : 18
 URL      : https://cran.r-project.org/src/contrib/brio_1.1.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/brio_1.1.2.tar.gz
 Summary  : Basic R Input Output
