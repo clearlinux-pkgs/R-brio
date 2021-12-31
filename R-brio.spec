@@ -4,7 +4,7 @@
 #
 Name     : R-brio
 Version  : 1.1.3
-Release  : 23
+Release  : 24
 URL      : https://cran.r-project.org/src/contrib/brio_1.1.3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/brio_1.1.3.tar.gz
 Summary  : Basic R Input Output
@@ -34,10 +34,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1640903570
+export SOURCE_DATE_EPOCH=1640984548
 
 %install
-export SOURCE_DATE_EPOCH=1640903570
+export SOURCE_DATE_EPOCH=1640984548
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
